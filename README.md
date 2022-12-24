@@ -7,6 +7,7 @@ Node/express模板的練習
 After clone, you need to
 ```
 npm install
+nodemon app.js
 ```
 ---
 ## Built With
