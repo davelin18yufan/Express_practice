@@ -9,6 +9,8 @@ After clone, you need to
 npm install
 nodemon app.js
 ```
+A simple website, what you can do is click the link above
+and the relative root will follow and changing view corerespondly
 ---
 ## Built With
 
